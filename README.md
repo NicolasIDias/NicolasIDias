@@ -16,7 +16,7 @@
 </h3>
 
 - 🔭 Contruindo uma rede social 
-- 🌱 Estou atualmente aprendendo sobre **TypeScript, Svelte, Kotlin, Postgresql, MongoDb, Tailwind.CSS, Rust e C++ (so nas horas vagas)**. 
+- 🌱 Estou atualmente aprendendo sobre **TypeScript, Svelte, Kotlin, Postgresql, MongoDb, Tailwind.CSS**. 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/NicolasIDias](https://github.com/NicolasIDias). 
 <!--- 💬 Sobre mim: **sou aspirante á desenvolvedor Jr tanto na área de aplicações gerais, quanto web e por último mas não menos importante jogos! Sou apaixonado por tecnologia desde meus 4 anos de idade, onde tive o primeiro contato com elas. Atualmente tenho conhecimento em tecnologias como Baixo nivel , WEB e embed system. Amo conversar sobre programacao e jogos.** -->
 - 📫 Para entrar em contato: **nicolasbhgamer@proton.me**. 
