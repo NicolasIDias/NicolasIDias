@@ -16,7 +16,7 @@
 </h3>
 
 - 🔭 Contruindo uma rede social 
-- 🌱 Estou atualmente aprendendo sobre **TypeScript, Svelte, Kotlin, Postgres, MongoDb, Tailwind.CSS, Rust e C++ (so nas horas vagas)**. 
+- 🌱 Estou atualmente aprendendo sobre **TypeScript, Svelte, Kotlin, Postgresql, MongoDb, Tailwind.CSS, Rust e C++ (so nas horas vagas)**. 
 - 👨‍💻 Alguns dos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/NicolasIDias](https://github.com/NicolasIDias). 
 <!--- 💬 Sobre mim: **sou aspirante á desenvolvedor Jr tanto na área de aplicações gerais, quanto web e por último mas não menos importante jogos! Sou apaixonado por tecnologia desde meus 4 anos de idade, onde tive o primeiro contato com elas. Atualmente tenho conhecimento em tecnologias como Baixo nivel , WEB e embed system. Amo conversar sobre programacao e jogos.** -->
 - 📫 Para entrar em contato: **nicolasbhgamer@proton.me**. 
@@ -43,11 +43,11 @@
 </p>
 <h3 align="center">Techs que uso/usei:</h3>
 <p align="center">
-	<a href="https://docs.oracle.com/javase/7/docs/api/java/lang/package-summary.html" target="_blank" rel="noreferrer">
+	<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 		<img
 		   height="30"
 		   width="40"
-		   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+		   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
 		 />
 	</a>
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -92,15 +92,20 @@
 			width="40"
 			height="40" />
 	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="mysql"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+			alt="tailwind"
 			width="40"
 			height="40" />
 	</a>
-
-
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+		<img
+		   height="30"
+		   width="40"
+		   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+		 />
+	</a>
 	
 </p>
 
