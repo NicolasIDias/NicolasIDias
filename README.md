@@ -57,20 +57,6 @@
 		   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
 		 />
 	</a>
-	<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img
-		   height="30"
-		   width="40"
-		   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"           
-		 />
-	</a>
-		<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-		<img
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-			alt="rust"
-			width="40"
-			height="40" />
-	</a>
 	<a href="https://svelte.dev/" target="_blank" rel="noreferrer">
 		<img
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
