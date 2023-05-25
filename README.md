@@ -1,28 +1,27 @@
-### Olá! Eu sou Nicolas
+### Hello I'm Nicolas
 <h1 align="center">
-	Olá, eu sou Nicolas Alexandre Torres Dias
-	<a
+	Hello, I'm Nicolas Alexandre Torres Dias
+	<a 
 		href="https://github.com/whoisnicolasadm/"
 		style="pointer-events: none; cursor: default">
 		<img
-			src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2500&pause=99999999999999&color=971ECA&background=EEFF5E00&vCenter=true&multiline=true&width=435&lines=e+sejam+bem+vindos+ao+meu+git!+%5E-%5E"
-			alt="" />
+			src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2500&pause=99999999999999&color=971ECA&background=EEFF5E00&vCenter=true&multiline=true&width=435&lines=and+welcome+to+my+git!+😎👍"
+			alt="" align="center"
 	</a>
 </h1>
 
 <h3 align="center">
-	Um desenvolvedor Junior em busca de Muito conhecimento 💜 <br />
-	Atualmente não estou trabalhando
+	A Junior developer looking for a lot of knowledge 💜 <br />
+	I'm currently in high school
 </h3>
 
-- 🔭 Contruindo uma rede social 
-- 🌱 Estou atualmente aprendendo sobre **TypeScript, Svelte, Kotlin, Postgresql, MongoDb, Tailwind.CSS**. 
-- 👨‍💻 Alguns dos meus projetos estão disponíveis no Github mas em breve portfólio :D [https://github.com/NicolasIDias](https://github.com/NicolasIDias). 
-<!--- 💬 Sobre mim: **sou aspirante á desenvolvedor Jr tanto na área de aplicações gerais, quanto web e por último mas não menos importante jogos! Sou apaixonado por tecnologia desde meus 4 anos de idade, onde tive o primeiro contato com elas. Atualmente tenho conhecimento em tecnologias como Baixo nivel , WEB e embed system. Amo conversar sobre programacao e jogos.** -->
-- 📫 Para entrar em contato: **nicolasbhgamer@proton.me**. 
-- Curiosidade: **De tanto querer aprender muitas linguagens ao mesmo tempo, acabo por não aprender nenhuma totalmente.**
+- 🔭 Developing a social media
+- 🌱 Learning **JavaScript, Kotlin, Svelte, Assembly and C++ (in free time)**
+- 👨‍💻 Some of my projects are available on Github but soon portfolio :D [https://github.com/NicolasIDias](https://github.com/NicolasIDias). 
+- 📫 Get in touch: **nicolasbhgamer@proton.me**. 
+- Curiosity: **I want to learn so many languages ​​at the same time, I end up not learning any of them completely.**
 
-<h3 align="center">Minhas redes sociais:</h3>
+<h3 align="center">Social:</h3>
 <p align="center">
 	<a href="https://twitter.com/srunicode" target="_blank"
 		><img
@@ -41,7 +40,7 @@
 			width="40"
 	/></a>
 </p>
-<h3 align="center">Techs que uso/usei:</h3>
+<h3 align="center">Techs I use/used:</h3>
 <p align="center">
 	<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 		<img
