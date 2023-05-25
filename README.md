@@ -5,8 +5,8 @@
 		href="https://github.com/whoisnicolasadm/"
 		style="pointer-events: none; cursor: default">
 		<img
-			src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=2500&pause=99999999999999&color=971ECA&background=EEFF5E00&vCenter=true&multiline=true&width=435&lines=and+welcome+to+my+git!+😎👍"
-			alt="" align="center"
+			src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=29&duration=2500&pause=99999999999999&color=971ECA&background=EEFF5E00&vCenter=true&multiline=true&width=435&lines=and+welcome+to+my+git!+😎👍"
+			alt="" />
 	</a>
 </h1>
 
