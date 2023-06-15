@@ -99,7 +99,7 @@
 <p align="center">
 	<img
 		align="center"
-		src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasIDias&layout=compact&langs_count=8&theme=algolia"
+		src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicolasIDias&layout=compact&langs_count=6&theme=algolia"
 		alt="NicolasIDias" />
 </p>
 <br>
